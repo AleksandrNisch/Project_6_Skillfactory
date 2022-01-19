@@ -1,5 +1,5 @@
 Проект 6. Car Price Prediction Прогнозирование стоимости автомобиля по характеристикам: DST-PRO Профессия Data Scientist
-
+slack: Aleksandr_N  member ID: U01B1CP7YVC
 ЗАДАЧА:
 https://www.kaggle.com/c/sf-dst-car-price-prediction
 Вы работаете в компании, которая занимается продажей автомобилей с пробегом в Москве. 
